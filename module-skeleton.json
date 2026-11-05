@@ -1,0 +1,15 @@
+{
+  "repository": "module-accounting-bank-rules-flutter",
+  "capabilityKey": "liberusoftware/module-accounting-bank-rules",
+  "presentation": "mobile-flutter",
+  "package": "module_accounting_bank_rules_flutter",
+  "foundation": "module-boilerplate-flutter",
+  "foundationCommit": "ff95e801183203fd3ab58993d7793fbae549151e",
+  "canonicalPlan": "projects/accounting/nextjs/bank-rules.md",
+  "presentationPlan": "projects/accounting/flutter/bank-rules.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "accounting"
+  ]
+}
